@@ -1,0 +1,13 @@
+pyrogram
+tgcrypto
+requests
+aiohttp
+python-dotenv
+pymongo
+motor
+psycopg2-binary
+sqlalchemy
+heroku3
+pillow
+ffmpeg-python
+hachoir
